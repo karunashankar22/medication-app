@@ -104,3 +104,5 @@ function AddMedicationForm() {
     </div>
   );
 }
+
+export default AddMedicationForm

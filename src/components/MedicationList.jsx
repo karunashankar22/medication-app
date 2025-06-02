@@ -49,3 +49,5 @@ function MedicationList() {
     </div>
   );
 }
+
+export default MedicationList

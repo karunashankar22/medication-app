@@ -56,3 +56,5 @@ function HistoryView() {
     </div>
   );
 }
+
+export default HistoryView
